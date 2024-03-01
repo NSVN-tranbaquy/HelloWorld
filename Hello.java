@@ -17,6 +17,7 @@ public class Hello {
 	}
 	
 	private void RandomNumber2 (){
+	private void PrintNumber (){
 		//TODO viet code vao day
 		System.out.println("HelloWorld ..." );
 	}
