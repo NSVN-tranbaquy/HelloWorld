@@ -20,4 +20,9 @@ public class Hello {
 		//TODO viet code vao day
 		System.out.println("HelloWorld ..." );
 	}
+	
+	private void RandomNumber3 (){
+		//TODO viet code vao day
+		System.out.println("HelloWorld ..." );
+	}
 }
