@@ -10,3 +10,4 @@ public class Hello {
 		//TODO viet code vao day
 		System.out.println("HelloWorld ..." );
 	}
+}
