@@ -10,4 +10,14 @@ public class Hello {
 		//TODO viet code vao day
 		System.out.println("HelloWorld ..." );
 	}
+	
+	private void RandomNumber1 (){
+		//TODO viet code vao day
+		System.out.println("HelloWorld ..." );
+	}
+	
+	private void RandomNumber2 (){
+		//TODO viet code vao day
+		System.out.println("HelloWorld ..." );
+	}
 }
