@@ -14,18 +14,18 @@ public class Hello {
 	private void RandomNumber1 (){
 		//TODO viet code vao day
 		System.out.println("HelloWorld ..." );
-	}
 	
-	private void RandomNumber2 (){
-		//TODO viet code vao day
-		System.out.println("HelloWorld ..." );
-	}
 	private void PrintNumber (){
 		//TODO viet code vao day
 		System.out.println("HelloWorld ..." );
 	}
 	
 	private void RandomNumber3 (){
+		//TODO viet code vao day
+		System.out.println("HelloWorld ..." );
+	}
+
+	private void PrintNumber1 (){
 		//TODO viet code vao day
 		System.out.println("HelloWorld ..." );
 	}
